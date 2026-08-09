@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ry6qu1.salamcuan.shop/sitemap.xml
